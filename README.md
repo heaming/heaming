@@ -25,6 +25,7 @@
 ## 😁ABOUT HEAMI 
 
 > - 성신여자대학교 국어국문학 & 미디어커뮤니케이션학 전공 
+> - California State University Monterey Bay 캘리포니아 주립대 교환학생
 
 > - GDSC(Google Developer Student Clubs) 3기 멤버
 > - 코뮤니티 한입 웹개발 Javascript 과정 수료
