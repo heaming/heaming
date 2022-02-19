@@ -1,5 +1,5 @@
 ![namecard](https://user-images.githubusercontent.com/85826542/138541790-2760bc95-4c0d-4ae4-82a2-db4d1fac0af2.jpg)
-
+<!--
 ### 🌱Developing developer🌱 <br/> 성장하는 FE 개발자 '조혜미'
 <br/>
 
@@ -34,4 +34,4 @@
 > - 2020.07 ~ 2020.08 스토리타코 <시크릿초이스> 시나리오 작성
 > - 2020.01 ~ 2020.09 시프트업 <프로젝트M> 참여
 
-> - 📫 meetoohi@gmail.com
+> - 📫 meetoohi@gmail.com-->
