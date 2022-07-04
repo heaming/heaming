@@ -26,3 +26,4 @@
 
 > - 📫 meetoohi@gmail.com
 > - 💖 https://www.instagram.com/mia_imaeh/
+> - 🏡 https://blog.naver.com/meetooha
